@@ -11,6 +11,7 @@ int main(){
     unsigned char masc = 0x01;
 
     while(controle != 3){
+        
         puts("Posições ocupadas: ");
 
         for(int i = 0; i <= 7; i++){
